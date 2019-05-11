@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Utils/Strategies/StrategieInitialisation_1.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Controller/ControleurAccueil.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Vue/GrilleGUI.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Modele/Explosion.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Modele/Bombe.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Modele/Mine.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Modele/Combattant.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Vue/GrillePanel.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Utils/Strategies/StrategieInitialisation_0.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Utils/Observer/ModelListener.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Modele/Definitions.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Modele/Bouclier.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/ressources/alien.png</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Modele/Grille.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Utils/Strategies/StrategieInitialisation_2.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Modele/Munition.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Vue/AccueilGUI.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Modele/Combattant_1.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Utils/Observer/Observer.java</file>
+            <file>file:/home/yaba/Téléchargements/JeuDeCombat/src/Controller/ControleurGrille.java</file>
+        </group>
+    </open-files>
+</project-private>
